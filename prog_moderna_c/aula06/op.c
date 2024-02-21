@@ -4,13 +4,14 @@
 #include <stdlib.h>
 
 /*
- * = atribuicao
- * + - unarios
- * + - binarios (adicao e subtracao)
- * * / (multiplicacao e divisao)
- * % (resto da divisao)
- * ++ (incremento)
- * -- (decremento)
+ operador é um simbolo que faz alguma operação qualquer
+ = atribuicao
+ + - unarios -> operador unario só precisa de um argumento
+ + - binarios (adicao e subtracao)
+ / (multiplicacao e divisao)
+ % (resto da divisao)
+ ++ (incremento)
+ -- (decremento)
 */
 
 int main(void) {
